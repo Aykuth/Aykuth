@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aykuth
 - 👀 I’m interested in System Administration
-- 🌱 I’m currently learning Python, Bash and suc.
+- 🌱 I’m currently learning Python, Bash and such.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aykut.hakverdi@gmail.com
 
